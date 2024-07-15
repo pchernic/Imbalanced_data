@@ -7,8 +7,8 @@ Our aim is to enhance the performance of machine learning models when dealing wi
 ## What Was Explored:
 
 In this repository, we've delved into the application of several prominent algorithms, including:
-- **SMOTE (Synthetic Minority Over-sampling Technique):** Used to synthetically generate minority class samples.
-- **ADASYN (Adaptive Synthetic Sampling):** Employed to adaptively balance class distributions.
+- **SMOTE (Synthetic Minority Over-sampling Technique):** Used to generate minority class samples synthetically.
+- **ADASYN (Adaptive Synthetic Sampling):** Employed to balance class distributions adaptively.
 - **NearMiss:** Utilized to select relevant instances for imbalanced datasets.
 - **Condensed Nearest Neighbors:** Applied for dimensionality reduction while preserving data integrity.
 
